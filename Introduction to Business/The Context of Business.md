@@ -10,3 +10,13 @@
 1. In mainstream economics, the concept of a **market** is any structure that allows buyers and sellers to exchange any type of goods, services, and information. The exchange of goods or services for money is called a **transaction**. Market participants consist of all the buyers and sellers of a certain good, thus influencing its price.
 
 2. A firm in the market economy survives by producing goods that persons are willing and able to buy. Consequently, ascertaining market needs is vital for a firm's future viability, and even existence, as a going concern.
+
+
+### Profit and Value
+
+
+#### Key Points
+- Normal profit represents the total opportunity costs (both explicit and implicit) of a venture to an investor, whereas economic profit is the difference between a firm's total revenue and all costs (including normal profit).
+- Given that profit is defined as the difference in total revenue and total cost, a firm achieves a maximum profit by operating at the point where the difference between the two is at its greatest.
+- The value of a firm is linked to profit maximization. A firm looking to maximize its profits is actually concerned with maximizing its value.
+
